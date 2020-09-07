@@ -1,0 +1,25 @@
+{
+  "name": "delivery",
+  "version": "1.0.0",
+  "description": "Company delivering service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serhii-edit/delivery.git"
+  },
+  "author": "Serhii Yakymenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serhii-edit/delivery/issues"
+  },
+  "homepage": "https://github.com/serhii-edit/delivery#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1"
+  }
+}
